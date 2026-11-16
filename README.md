@@ -1,6 +1,6 @@
-# qrt
+# QRT x CompSoc C3 Coding Hackathon
 
-Solutions to the problem set from the **QRT x CompSoc C3 Coding Hackathon**, hosted by Edinburgh CompSoc & QRT (Edinburgh, GB, 16 Nov 2026, onsite). Each folder is self-contained, with the problem statement in its `README.md` and the submission in `solution.py`.
+Solutions to the problem set from the hackathon hosted by Edinburgh CompSoc & QRT (Edinburgh, GB, 16 Nov 2026, onsite). Each folder is self-contained, with the problem statement in its `README.md` and the submission in `solution.py`.
 
 | Problem | Folder |
 | --- | --- |
