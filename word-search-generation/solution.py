@@ -139,7 +139,7 @@ def _place_one(sd, g, lstr, wt, rng, explore):
         return None
     keys = sorted(buckets, reverse=True)
     if keys[0] == m:
-        lid, s, rev = rng.choice(buckets[m])
+        lid, s, _ = rng.choice(buckets[m])
         li = lines[lid]
         return [li[(s + k) % n] for k in range(m)], []
     groups = [buckets[k] for k in keys]
